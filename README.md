@@ -73,7 +73,5 @@ Contributions are always welcome! If you have improvements or feature suggestion
 This project is licensed under the [BSD 3-Clause License] - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-
-- Viraj Mulik
 - virajmulik2304@gmail.com
   
