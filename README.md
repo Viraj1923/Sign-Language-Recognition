@@ -66,10 +66,10 @@ This part involves testing the sign language recognition using a pre-trained mod
 
 ## Contributors
 
-Viraj Mulik
-Onkar Giri
-Shreya Chavan
-Digvijay Pawar
+- Viraj Mulik
+- Onkar Giri
+- Shreya Chavan
+- Digvijay Pawar
 
 ## License
 
