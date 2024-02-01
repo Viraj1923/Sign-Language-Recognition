@@ -64,9 +64,12 @@ This part involves testing the sign language recognition using a pre-trained mod
 - Math
 - cvzone
 
-## Contributing
+## Contributors
 
-Contributions are always welcome! If you have improvements or feature suggestions, please submit a pull request.
+Viraj Mulik
+Onkar Giri
+Shreya Chavan
+Digvijay Pawar
 
 ## License
 
